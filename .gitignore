@@ -1,0 +1,11 @@
+# Fichiers sensibles
+.env
+key.json
+
+# Environnement virtuel
+.venv/
+
+# Dossiers de logs ou de fichiers temporaires
+flagged/
+__pycache__/
+*.pyc
